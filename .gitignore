@@ -7,5 +7,5 @@
 .local/
 .profile
 .wget-hsts
-
+.python_history
 .log
