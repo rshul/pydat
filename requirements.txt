@@ -3,5 +3,5 @@ matplotlib
 scipy
 sklearn
 pandas
-graphviz
+graphviz-python
 pydotplus
