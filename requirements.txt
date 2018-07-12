@@ -65,3 +65,4 @@ urllib3==1.22
 wcwidth==0.1.7
 webencodings==0.5
 widgetsnbextension==3.2.1
+seaborn
